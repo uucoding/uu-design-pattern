@@ -1,7 +1,7 @@
 package com.uucoding.gof23.abstractfactory;
 
 /**
- * 文章抽象工厂
+ * 产品族抽象工厂
  * @author : uu
  * @version : v1.0
  * @Date 2021/1/14  21:11
