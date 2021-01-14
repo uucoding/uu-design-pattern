@@ -1,7 +1,7 @@
 package com.uucoding.gof23.abstractfactory;
 
 /**
- * java文章
+ * java项目
  * @author : uu
  * @version : v1.0
  * @Date 2021/1/14  21:09
