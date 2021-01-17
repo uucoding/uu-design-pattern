@@ -1,4 +1,4 @@
-package com.uucoding.gof23.simplefactory;
+package com.uucoding.gof23.creational.simplefactory;
 
 /**
  * 文章工厂

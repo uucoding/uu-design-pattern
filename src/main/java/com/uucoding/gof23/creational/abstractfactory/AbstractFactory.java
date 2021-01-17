@@ -1,4 +1,4 @@
-package com.uucoding.gof23.abstractfactory;
+package com.uucoding.gof23.creational.abstractfactory;
 
 /**
  * 产品族抽象工厂

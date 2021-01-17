@@ -1,4 +1,4 @@
-package com.uucoding.gof23.factorymethod;
+package com.uucoding.gof23.creational.factorymethod;
 
 /**
  * 文章
