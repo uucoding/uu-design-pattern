@@ -33,7 +33,7 @@ public class DeepBook implements Cloneable {
     }
 
     /**
-     * 实现clone方法
+     * 重写clone方法
      * @return
      * @throws CloneNotSupportedException
      */

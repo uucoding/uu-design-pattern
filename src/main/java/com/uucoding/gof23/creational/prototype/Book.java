@@ -26,20 +26,21 @@ public class Book implements Cloneable {
      */
     private Date publishDate;
 
-    public Book(String name, Author author, Date publishDate) {
-        this.name = name;
-        this.author = author;
-        this.publishDate = publishDate;
-    }
-
     /**
-     * 实现clone方法
+     * 重写clone方法
      * @return
      * @throws CloneNotSupportedException
      */
     @Override
     protected Object clone() throws CloneNotSupportedException {
         return super.clone();
+    }
+
+
+    public Book(String name, Author author, Date publishDate) {
+        this.name = name;
+        this.author = author;
+        this.publishDate = publishDate;
     }
 
     public String getName() {
