@@ -13,4 +13,6 @@ gof23
         |- singleton 单例模式
     |-  behavioral(行为型模式)
     |-  structural(结构型模式)
+        |- facade 外观模式
+
 ```
