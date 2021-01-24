@@ -11,8 +11,9 @@ gof23
         |- builder 建造者模式案例
         |- prototype 原型模式
         |- singleton 单例模式
-    |-  behavioral(行为型模式)
     |-  structural(结构型模式)
         |- facade 外观模式
+        |- decorator 装饰模式
+    |-  behavioral(行为型模式)
 
 ```
