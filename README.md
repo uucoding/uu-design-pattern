@@ -15,5 +15,6 @@ gof23
         |- facade 外观模式案例
         |- decorator 装饰器模式案例
         |- adapter 适配器模式案例
+        |- flyweight 享元模式案例
     |-  behavioral(行为型模式)
 ```
