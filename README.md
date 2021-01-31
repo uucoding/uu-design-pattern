@@ -17,5 +17,6 @@ gof23
         |- adapter 适配器模式案例
         |- flyweight 享元模式案例
         |- composite 组合模式案例
+        |- bridge 桥接模式案例
     |-  behavioral(行为型模式)
 ```
