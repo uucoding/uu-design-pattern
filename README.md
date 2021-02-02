@@ -23,4 +23,5 @@ gof23
             |- dynamic 动态模式案例
             |- cglib cglib模式案例
     |-  behavioral(行为型模式)
+        |- template 模版模式案例
 ```
