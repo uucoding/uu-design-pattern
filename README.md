@@ -18,5 +18,9 @@ gof23
         |- flyweight 享元模式案例
         |- composite 组合模式案例
         |- bridge 桥接模式案例
+        |- proxy 代理模式案例
+            |- _static 静态代理模式案例
+            |- dynamic 动态模式案例
+            |- cglib cglib模式案例
     |-  behavioral(行为型模式)
 ```
