@@ -1,7 +1,7 @@
 package com.uucoding.gof23.behavioral.template;
 
 /**
- * 游戏接口
+ * 游戏流程
  *
  * @author : uu
  * @version : v1.0
