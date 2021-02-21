@@ -25,4 +25,5 @@ gof23
     |-  behavioral(行为型模式)
         |- template 模版模式案例
         |- iterator 迭代器模式案例
+        |- strategy 策略模式案例
 ```
