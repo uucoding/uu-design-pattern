@@ -1,7 +1,5 @@
 package com.uucoding.gof23.behavioral.strategy;
 
-import java.util.Comparator;
-
 /**
  * 客户端
  *
