@@ -26,4 +26,5 @@ gof23
         |- template 模版模式案例
         |- iterator 迭代器模式案例
         |- strategy 策略模式案例
+        |- interpreter 解释器模式案例
 ```
