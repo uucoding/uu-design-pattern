@@ -27,4 +27,5 @@ gof23
         |- iterator 迭代器模式案例
         |- strategy 策略模式案例
         |- interpreter 解释器模式案例
+        |- observer 观察者模式案例
 ```
