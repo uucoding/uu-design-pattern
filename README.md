@@ -28,4 +28,5 @@ gof23
         |- strategy 策略模式案例
         |- interpreter 解释器模式案例
         |- observer 观察者模式案例
+        |- memento 备忘录模式案例
 ```
