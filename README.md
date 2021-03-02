@@ -29,4 +29,5 @@ gof23
         |- interpreter 解释器模式案例
         |- observer 观察者模式案例
         |- memento 备忘录模式案例
+        |- command 命令模式案例
 ```
