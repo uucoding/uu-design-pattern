@@ -31,4 +31,5 @@ gof23
         |- memento 备忘录模式案例
         |- command 命令模式案例
         |- mediator 中介者模式案例
+        |- chainofresponsibility 责任链模式案例
 ```
