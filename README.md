@@ -32,4 +32,5 @@ gof23
         |- command 命令模式案例
         |- mediator 中介者模式案例
         |- chainofresponsibility 责任链模式案例
+        |- visitor 访问者模式案例
 ```
